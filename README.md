@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my Final Year project called MekinaHub<br>👯 I’m looking to collaborate on anything related to fast production and AI<br>🤝 I’m looking for help with coming up with ideas<br>🌱 I’m currently learning React, Next.js, mongodb, python<br>💬 Ask me about anything<br>⚡ Fun fact I do this for pesos
+🔭 I’m currently working on a Gym Managemnt System<br>👯 I’m looking to collaborate on anything related to fast production and AI<br>🤝 I’m looking for help with coming up with ideas<br>🌱 I’m currently learning React, Next.js, mongodb, python<br>💬 Ask me about anything<br>⚡ Fun fact I do this for pesos
 
 
 ## 🌐 Socials:
